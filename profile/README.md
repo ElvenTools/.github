@@ -4,6 +4,7 @@ The Elven Tools includes the Smart Contract, CLI tool, and minter dapp for NFT l
 
 - [How to run NFT collection on the Elrond blockchain](https://youtu.be/resGP6a7_34)
 - [How to start with the Elrond blockchain development](https://www.julian.io/articles/how-to-start-with-elrond.html)
+- [How to start with the Dapp](https://www.elven.tools/docs/how-to-start-with-the-dapp.html)
 - [Dapp demo](https://dapp-demo.elven.tools/)
 - [Walkthrough videos](https://www.youtube.com/channel/UCaj-mgcY9CWbLdZsC5Gt00g/videos)
 
