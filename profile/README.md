@@ -8,6 +8,11 @@ The Elven Tools includes the Smart Contract, CLI tool, and minter dapp for NFT l
 - [Dapp demo](https://dapp-demo.elven.tools/)
 - [Walkthrough videos](https://www.youtube.com/channel/UCaj-mgcY9CWbLdZsC5Gt00g/videos)
 
+Kanban boards for projects:
+- [Elven Tools Smart Contract](https://github.com/orgs/ElvenTools/projects/4)
+- [Elven Tools CLI](https://github.com/orgs/ElvenTools/projects/3)
+- [Elven Tools Dapp](https://github.com/orgs/ElvenTools/projects/2)
+
 Ask me anything here:
 
 - [Elven Tools Twitter](https://twitter.com/ElvenTools)
