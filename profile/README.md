@@ -13,6 +13,10 @@ Kanban boards for projects:
 - [Elven Tools CLI](https://github.com/orgs/ElvenTools/projects/3)
 - [Elven Tools Dapp](https://github.com/orgs/ElvenTools/projects/2)
 
+Additional scripts:
+- [elven-tools-collection-owners-csv](https://github.com/ElvenTools/elven-tools-collection-owners-csv) - Collection owners as CSV
+- [elven-tools-snapshots-intersection](https://github.com/ElvenTools/elven-tools-snapshots-intersection) - Get long-term hodlers od an NFT collection
+
 Ask me anything here:
 
 - [Elven Tools Twitter](https://twitter.com/ElvenTools)
