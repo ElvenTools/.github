@@ -11,7 +11,7 @@ The Elven Tools includes the Smart Contract, CLI tool, and minter dapp for NFT l
 **Important**: To be sure where the project is already, what's missing etc. please check the Kanban boards for each repository:
 - [Elven Tools NFT Minter Smart Contract](https://github.com/orgs/ElvenTools/projects/7)
 - [Elven Tools CLI](https://github.com/orgs/ElvenTools/projects/6)
-- [Elven Tools NFT Minter Dapp](https://github.com/orgs/ElvenTools/projects/5)
+- [Elven Tools Minter Dapp](https://github.com/orgs/ElvenTools/projects/5)
 
 Additional scripts:
 - [elven-tools-collection-owners-csv](https://github.com/ElvenTools/elven-tools-collection-owners-csv) - NFT Collection owners as CSV
