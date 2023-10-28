@@ -27,3 +27,4 @@ Ask me anything here:
 Please also check:
 - [Elven.js (elvenjs.com)](https://github.com/elven-js) - compact browser library for interacting with the MultiversX blockchain and smart contracts. No build steps are required. You can also use it directly from CDN on a static website.
 - [useElven (useelven.com)](https://github.com/useelven) - a set of hooks and tools designed to work with React-based applications. The engine for Elven Tools Dapp.
+- [Buildo.dev](https://www.buildo.dev) - Buildo.dev is a MultiversX app that helps with blockchain interactions, like issuing tokens and querying smart contracts.
